@@ -1,0 +1,29 @@
+Fontawesome Icons:
+<i class="fa-solid fa-star"></i>
+<i class="fa-solid fa-heart"></i>
+
+stars color:  rgb(255, 230, 0)
+
+Page:
+https://www.kickstarter.com/projects/109560964/qidi-vida-smart-ar-glasses-for-sports?ref=discovery_category
+Product title: 
+QIDI Vida - Your AI Sports Mate
+
+Product description:
+All-in-One AR Glasses｜Full Color Display | Excercise & Health Data Monitoring & Analyze｜Camera｜Navigation｜Teamup | Voice Control
+
+Product(top-photo):
+https://i.kickstarter.com/assets/044/773/703/71d7dda1dfa4d48dae98d9d779f0eac4_original.jpg?fit=scale-down&origin=ugc&q=92&width=680&sig=3smA9ukD1%2FMXNOhfBSWLP7bSi1pyyaE86obD9QGiXkA%3D
+
+
+Video (middle-photo):
+https://i.kickstarter.com/assets/045/002/953/8a446c4c16e1d7d187e564940cc2d035_original.gif?fit=scale-down&origin=ugc&q=92&width=680&sig=EeI02t28GhssJhEj49B8BmN7yMMeuVyikVJZCnyUB4I%3D
+
+
+3 more pics(bottom-photos):
+
+https://i.kickstarter.com/assets/044/775/259/f274a97727b09698333351de20b10835_original.gif?fit=scale-down&origin=ugc&q=92&width=680&sig=TR0zxZ6pKdMjKpgviJ8JtcrUn5tfLS9vqdm8ypdRh04%3D
+
+https://i.kickstarter.com/assets/044/855/579/c4a5ae0e571afe41cb96bbb8ea5a4a40_original.gif?fit=scale-down&origin=ugc&q=92&width=680&sig=I1P8V8i59PMs5yjedHaPdT5J0mx8OTAsS7SuvZ1U4lU%3D
+
+https://i.kickstarter.com/assets/044/789/017/c7a7479e71175145d6d6825f4286508b_original.gif?fit=scale-down&origin=ugc&q=92&width=680&sig=89ey9kTBSRYrVj92tYQT2ffBM4vXrFSnQpUdUo6rHQA%3D

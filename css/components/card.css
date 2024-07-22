@@ -1,0 +1,47 @@
+.card {
+  background-color: white;
+  padding: 12px;
+}
+
+.top {
+  display: flex;
+  gap: 8px;
+
+}
+
+.card-info {
+  width: 50%;
+}
+
+.top-image {
+  width: 50%;
+  background-size: cover;
+  background-position: right;
+  position: relative;
+}
+
+.top-image i {
+  position: absolute;
+  top: 8px;
+  left: 8px;
+  color: pink;
+}
+
+.middle {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  object-position: center;
+  margin-top: 12px;
+}
+
+.footer {
+  display: flex;
+  gap: 16px;
+  /* justify-content: space-between; */
+}
+
+.footer img {
+  height: 80px;
+  flex-grow: 1;
+}
