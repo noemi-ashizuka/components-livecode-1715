@@ -1,4 +1,4 @@
-.card{
+.card {
   background-color: white;
   padding: 16px;
   border-radius: 8px;
@@ -6,23 +6,23 @@
 }
 
 
-.card-top-left{
+.card-top-left {
   width: 50%;
   background-position: center;
   background-size: cover;
   position: relative;
 }
 
-.card-top-right{
+.card-top-right {
   width: 50%;
 }
 
-.card-top{
+.card-top {
   display: flex;
   gap: 16px;
 }
 
-.card-middle-video{
+.card-middle-video {
   width: 100%;
   height: 200px;
   object-fit: cover;
@@ -30,24 +30,24 @@
   margin-top: 8px;
 }
 
-.card-bottom{
+.card-bottom {
   display: flex;
   /* justify-content: space-between; */
   gap: 8px;
 }
 
-.card-bottom img{
+.card-bottom img {
   height: 80px;
   flex-grow: 1;
   object-fit: cover;
   object-position: center;
 }
 
-.fa-star{
+.fa-star {
   color: #FFB519;
 }
 
-.fa-heart{
+.fa-heart {
   color:pink;
   position: absolute;
   top: 8px;
